@@ -12,12 +12,7 @@ export const memories: Memory[] = [
 		message: 'Feliz aniversário, Thiago! Que saudade de você por aqui...',
 		author: 'Família',
 	},
-	{
-		type: 'video',
-		src: '/assets/video_1.mp4',
-		message: 'Memória especial para você, Thiago!',
-		author: 'Arthur E Victor',
-	},
+
 	// Adicione mais memórias aqui seguindo o mesmo padrão:
 	// {
 	//   type: 'photo',
